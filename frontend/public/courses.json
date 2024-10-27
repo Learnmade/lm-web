@@ -1,0 +1,78 @@
+[{
+    "_id":1,
+    "title":"C programming",
+    "description":"Basics to Advanced programming of C programming ",
+    "catagory":"programming",
+    "trending":true,
+    "coverImage":"computerarc.png",
+    "oldPrice": 1200,
+    "newPrice": 999,
+    "instructor": "Jeyasurya M"
+},
+{
+    "_id":2,
+    "title":"Python programming",
+    "description":"Basics to Advanced programming of Python programming",
+    "catagory":"programming",
+    "trending":true,
+    "coverImage":"webdev.png",
+    "oldPrice": 499,
+    "newPrice": 399,
+    "instructor": "Jeyasurya M"
+},
+{
+    "_id":3,
+    "title":"MERN stack",
+    "description":"Basics to Advanced programming of web development",
+    "catagory":"web development",
+    "trending":true,
+    "coverImage":"mernstack.jpg",
+    "oldPrice": 2999,
+    "newPrice": 999,
+    "instructor": "Jeyasurya M"
+},
+{
+    "_id":4,
+    "title":"HTML Basics",
+    "description":"Basics of HTML",
+    "catagory":"web development",
+    "trending":true,
+    "coverImage":"html.jpg",
+    "oldPrice": 499,
+    "newPrice": 199,
+    "instructor": "Jeyasurya M"
+},
+{
+    "_id":5,
+    "title":"CSS Basics",
+    "description":"Basics of CSS",
+    "catagory":"web development",
+    "trending":true,
+    "coverImage":"css.jpg",
+    "oldPrice": 299,
+    "newPrice": 99,
+    "instructor": "Jeyasurya M"
+},
+{
+    "_id":6,
+    "title":"Bootstrap",
+    "description":"Basics of bootsraps with live development",
+    "catagory":"web development",
+    "trending":true,
+    "coverImage":"bootstrap.jpg",
+    "oldPrice": 199,
+    "newPrice": 99,
+    "instructor": "Jeyasurya M"
+},
+{
+    "_id":7,
+    "title":"Portfolio development",
+    "description":"complete portfolio development like professional",
+    "catagory":"web development",
+    "trending":true,
+    "coverImage":"course-7.png",
+    "oldPrice": 199,
+    "newPrice": 49,
+    "instructor": "Jeyasurya M"
+}
+]
